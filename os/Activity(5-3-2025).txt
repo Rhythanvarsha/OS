@@ -1,0 +1,5 @@
+Activity
+1)create a folder
+2)enter into folder
+3)create any 2 files or shell programming(commands)
+4)execute it

@@ -1,0 +1,50 @@
+SHELL PROGRAMMING
+
+
+
+I)DESICION MAKING
+
+
+1)if
+if[condition]
+then
+  statements
+fi
+
+
+
+2)if else 
+
+
+if(condition]
+then
+   statements
+else 
+   statements
+fi
+
+
+
+3)if elseif
+
+
+if(condition]
+then
+   statements
+elif[conditon] 
+   statements
+  ...
+else 
+   statements
+fi
+
+
+
+
+operators and symbols:
+-eq -ne -gt -ge -lt and 
+
+logical -a -o !
+
+
+

@@ -1,0 +1,55 @@
+ubuntu $ whoami
+root
+ubuntu $ ls
+filesystem  snap
+ubuntu $ ls -l
+total 4
+lrwxrwxrwx 1 root root    1 Feb 11 16:42 filesystem -> /
+drwx------ 3 root root 4096 Feb 12 09:11 snap
+ubuntu $ ls -a
+.  ..  .bash_history  .bashrc  .profile  .ssh  .theia  .vimrc  filesystem  snap
+ubuntu $ date
+Wed Feb 12 09:28:11 UTC 2025
+ubuntu $ cal 
+   February 2025      
+Su Mo Tu We Th Fr Sa  
+                   1  
+ 2  3  4  5  6  7  8  
+ 9 10 11 12 13 14 15  
+16 17 18 19 20 21 22  
+23 24 25 26 27 28     
+                      
+
+
+rw->owner 
+r->group
+r->other
+
+
+3)ls,dir->to check all the dir
+4)dir filename->to create dir
+5)cd dir name->to get into dir
+6)pwd->to know what is present working dir
+
+
+7)touch os->create file
+8)to create file along with content-> cat>filename(to save file put ctrl d)
+9)ls->yo show all the files
+10)cat filename->to view content of the file
+11)cat>>filename     (to add content in file)
+12)mkdir directory_name  (to create folder/directory)             
+13) ls -l (to see directory)
+14)cd (to chande dir
+15)rmdir direcname(to remove dir)
+16)cp source_filename dest_filename         (to copy content of 1 file to another)
+17)pwd(present path/dir)
+18)man(to see details about the command)
+19)head filename(to see the 1st 10 lines )
+20)tail(last 10 lines)
+21)wc filename(no of char in file)
+22)rev filename(rev content of file)(the original contents not altered)
+23)who(shows the users)
+24)echo content(return same thing given after echo)
+25)jobs(list al the activities(task manager-running task,closing task)
+26)fg,fg %1
+
